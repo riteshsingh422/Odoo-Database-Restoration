@@ -59,5 +59,5 @@ Then, list tables with:
 - Ensure `dump.sql` is in the correct directory before running the restore command.
 - If you encounter permission issues, run the commands with the appropriate user privileges.
 
-## Happy Coding 🧑‍💻
+## Your data is your treasure—protect it, back it up, and restore it wisely. Happy Coding 🧑‍💻
 
